@@ -1,0 +1,18 @@
+# Hashes of file build rules.
+baf3974a43ac8855a068771dbc44544c external/madrona/external/glfw/CMakeFiles/uninstall
+82d7a45aab2a24af706d5e03b236f9f7 external/madrona/external/glfw/src/CMakeFiles/update_mappings
+accb598668c48e8c3d63040d40c47567 external/madrona/external/madrona-deps/CMakeFiles/madrona_libdxc_shlib
+accb598668c48e8c3d63040d40c47567 external/madrona/external/madrona-deps/CMakeFiles/madrona_moltenvk_lib
+accb598668c48e8c3d63040d40c47567 external/madrona/external/madrona-deps/CMakeFiles/madrona_vk_loader
+0d58ce6857c0d63cf759574058d614dd external/madrona/external/madrona-toolchain/CMakeFiles/madrona_libcxx_shlib
+f3d05991076db22907f6a90e3c068f7a external/madrona/src/mw/render/CMakeFiles/madrona_batch_render_metal_shaders
+59a7a99dabcf4512fdcb3b095c1ba3e9 external/madrona/src/render/vk/CMakeFiles/generate_vk_dispatch
+36f017656a6b3f2f2a3441e939f01d54 external/madrona/src/render/vk/dispatch/dispatch.template
+06f2a5f6d958a5f6138f0e9fedb14a77 external/madrona/src/render/vk/dispatch/dispatch_device_impl.hpp
+8c2986923e92ac2bc94a68189b42d3a2 libc++-noexcept.1.dylib
+af44c6d64cb112e411e0841b30fbf62d libdxcompiler.dylib
+b5635c7f4580479684442f8d16d149c9 shaders/metal/madrona/draw.metallib
+9f754b71ba8d449e90075ce846bf5e04 shaders/metal/madrona/present.metallib
+e67bf0571e657f754272023d376a3e28 vk/MoltenVK_icd.json
+a38ba8e48fda797ab0326b7b567b0b24 vk/libMoltenVK.dylib
+e396045584ea3e5f901b839c0104742a vk/libvulkan.1.dylib

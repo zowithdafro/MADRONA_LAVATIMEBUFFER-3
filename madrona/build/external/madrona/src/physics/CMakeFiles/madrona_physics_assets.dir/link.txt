@@ -1,0 +1,1 @@
+"/Users/zoelynch/desktop/zoeG/madrona_escape_room/external/madrona/external/madrona-toolchain/bundled-toolchain/toolchain/Toolchains/LLVM15.0.7.xctoolchain/usr/bin/llvm-libtool-darwin" -static -no_warning_for_no_symbols -o libmadrona_physics_assets.a CMakeFiles/madrona_physics_assets.dir/physics_assets.cpp.o CMakeFiles/madrona_physics_assets.dir/mesh_bvh_builder.cpp.o
